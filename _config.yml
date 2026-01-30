@@ -1,11 +1,11 @@
 # Site-wide settings
 # ------------------
 #
-title: JR'S Spring Senior Blog;
+title: JR'S Spring Senior Blog
 #
 # author:
-name: James Randle Jr;
-email: randleja@hendrix.edu;
+name: James Randle Jr
+email: randleja@hendrix.edu
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
