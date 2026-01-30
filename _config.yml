@@ -10,10 +10,11 @@ email: randleja@hendrix.edu;
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 # description: >
-Welcome to my Spring Senior Blog! Here, I will be documenting my experiences,
-challenges, and achievements throughout my final semester at Hendrix College.
-Hopefully, the next person taking this course will find this blog helpful
-as they navigate their own senior projects and experiences.
+description: >
+  This blog documents my experiences,
+  challenges, and achievements during my spring senior semester at Hendrix College.
+  I am very excited to share this journey with everyone!
+
 
 
 # Build settings
