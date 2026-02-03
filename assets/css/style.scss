@@ -5,3 +5,10 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+  /* 1. Site header: Crimson background, cream text for title */
+.site-header {
+  background-color: #70110C;      /* Crimson */
+  color: #F2EBD7;                 /* Cream */
+  border-bottom: 4px solid #F2EBD7; /* Cream border accent */
+}
