@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Introduction Post"
+date: 2026-01-31 09:00:00 -0600
+author: James Randle Jr
 
 ---
 
