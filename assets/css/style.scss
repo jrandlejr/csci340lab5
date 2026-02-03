@@ -6,9 +6,35 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-  /* 1. Site header: Crimson background, cream text for title */
-.site-header {
-  background-color: #70110C;      /* Crimson */
-  color: #F2EBD7;                 /* Cream */
-  border-bottom: 4px solid #F2EBD7; /* Cream border accent */
+  .site-header {
+  background-color: #70110C;
+  color: #F2EBD7;
+  border-bottom: 4px solid #F2EBD7;
+}
+
+.site-title,
+.site-title:visited {
+  color: #F2EBD7 !important;
+}
+
+.site-nav .nav-item,
+.site-nav .nav-item:visited {
+  color: #F2EBD7;
+}
+
+.site-nav .nav-item:hover {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+
+.post-title {
+  color: #70110C;
+}
+
+a {
+  color: #70110C;
+}
+
+a:hover {
+  color: #9e1b32;
 }
