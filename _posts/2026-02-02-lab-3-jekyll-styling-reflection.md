@@ -34,7 +34,7 @@ Two resources that helped:
 - The [Minima theme on GitHub](https://github.com/jekyll/minima) for seeing what I could customize
 - Dr. Goadrich's [CSCI 340 step-by-step labs](https://hendrix-cs.github.io/csci340/) — super clear instructions
 
-Here are two screenshots of my changes:
+Here are two screenshots of my changes going from the original minima white and black background to a nice crimson and cream feeling; paying homage to my fraternity Kappa Alpha Psi:
 
 ![Blog header with crimson background and cream text](/assets/images/crimson-header.png)
 
