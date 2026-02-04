@@ -36,7 +36,8 @@ Two resources that helped:
 
 Here are two screenshots of my changes going from the original minima white and black background to a nice crimson and cream feeling; paying homage to my fraternity Kappa Alpha Psi:
 
-![Blog header with crimson background and cream text](/assets/images/crimson-header.png)
+![My Alt Text]({{ '/assets/images/crimson-header.png' | relative_url }})
 
-![Full post view showing crimson titles and styling](/assets/images/crimson-post-example.png)
+![My Alt Text]({{ '/assets/images/crimson-post-example.png' | relative_url }})
+
 This lab took some troubleshooting, but now the blog actually feels personal.
